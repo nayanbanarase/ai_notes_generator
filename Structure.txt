@@ -1,0 +1,42 @@
+AI-Notes-Generator/
+│
+├── app.py                     # Main Streamlit application
+├── requirements.txt           # Python libraries required
+├── README.md                  # Project documentation
+├── .gitignore                 # Files ignored by Git
+├── LICENSE                    # Project license (optional)
+│
+├── assets/                    # Images, logos, icons
+│   ├── logo.png
+│   ├── banner.png
+│   └── screenshots/
+│       ├── home.png
+│       ├── generated_notes.png
+│       └── pdf_download.png
+│
+├── pdfs/                      # Generated PDF notes
+│   └── AI_Notes.pdf
+│
+├── prompts/                   # AI prompts
+│   └── prompt.txt
+│
+├── utils/                     # Helper functions
+│   ├── pdf_generator.py
+│   ├── prompt_builder.py
+│   └── helpers.py
+│
+├── models/                    # Model configuration
+│   └── ollama_config.py
+│
+├── data/                      # Sample data (optional)
+│   └── sample_topics.txt
+│
+├── docs/                      # Project report & documentation
+│   ├── IEEE_Report.pdf
+│   ├── Presentation.pptx
+│   └── Architecture.png
+│
+├── tests/                     # Testing files
+│   └── test_app.py
+│
+└── venv/                      # Virtual Environment (Do not upload to GitHub)
