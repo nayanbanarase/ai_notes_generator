@@ -3,7 +3,7 @@
 ### Author
 
 **Nayan Shankar Banarase**
-Master of Computer Applications (MCA)
+
 
 ---
 
