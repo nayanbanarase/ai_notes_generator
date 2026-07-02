@@ -294,4 +294,4 @@ The project can be extended with several advanced features:
 
 ---
 
-This README follows an IEEE-style structure with sections commonly used in academic project reports and is suitable for inclusion in your GitHub repository as well as for MCA project documentation.
+
