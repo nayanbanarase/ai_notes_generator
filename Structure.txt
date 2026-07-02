@@ -39,4 +39,4 @@ AI-Notes-Generator/
 ├── tests/                     # Testing files
 │   └── test_app.py
 │
-└── venv/                      # Virtual Environment (Do not upload to GitHub)
+└── venv/                      # Virtual Environment 
